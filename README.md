@@ -14,9 +14,6 @@ Configure and test firewall rules to block and allow specific ports.
 - Verified rules with Telnet testing
 - Removed block rule after testing
 
-## 📷 Screenshots
-[Attach all screenshots here]
-
 ## 📌 Key Commands
 - `wf.msc` (to open firewall settings)
 - `telnet localhost 23` (to test blocked port)
